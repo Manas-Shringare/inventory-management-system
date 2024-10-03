@@ -12,3 +12,7 @@ A Java-based desktop application with a user-friendly GUI, designed for managing
 - Automated alerts for products nearing expiration
 - Real-time data analysis to improve stock management
 - Seamless integration with MySQL database
+
+## Video Demonstration
+- This is the Youtube link for the project's video demonstration. Enjoy!
+- Link: https://www.youtube.com/watch?v=BR98-kRapLM
